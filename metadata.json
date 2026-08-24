@@ -1,0 +1,6 @@
+{
+  "name": "Maktaba Haqanya — Online Bookstore",
+  "description": "Complete full-stack online bookstore with rich Islamic & Urdu literature, smart book search, shopping cart, COD & online payment checkout, order tracking, admin dashboard, and AI book assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
